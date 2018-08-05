@@ -1,0 +1,1 @@
+Angular directive using host binding and host listening

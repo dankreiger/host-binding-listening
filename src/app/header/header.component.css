@@ -1,0 +1,7 @@
+.caret {
+  transition: 300ms transform;
+}
+
+.open .caret {
+  transform: rotate(180deg);
+}
